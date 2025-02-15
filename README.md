@@ -66,12 +66,3 @@ The analysis helps in:
 | **R-Squared (R²)** | 0.98 |
 
 **💡 Interpretation:** The model has **high accuracy** (98%) in predicting sales trends! 🚀  
-
----
-
-## 📥 How to Use  
-### **🔹 Run the project locally**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourUsername/s-prediction-by-AI.git
-   cd s-prediction-by-AI
